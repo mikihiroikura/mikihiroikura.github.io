@@ -5,13 +5,12 @@ body{
 }
 
 .palette{
-  background: #eeeeee;
+  background: #ffffff;
   font-family: serif;
   color: #333333;
   width: 850px;
   height: auto;
   padding: 30px;
-  border: 1px solid #00bfff;
   margin: 30px auto;
 }
 
@@ -25,10 +24,10 @@ body{
 }
 
 .title{
-  background: #ffffff;
+  background: #d5eaff;
   font-family: sans-serif;
+  color: #006699;
   font-size: 1.6rem;
-  border: 1px solid #00bfff;
   text-align: text-left;
   margin: 20px auto;
   padding: 10px;
