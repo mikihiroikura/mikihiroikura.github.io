@@ -5,6 +5,29 @@ body{
   -webkit-text-size-adjust: 150%;
 }
 
+header{
+  text-align: right;
+  background-color: #333333;
+  margin-left: 326px;
+  position: fixed;
+  width: 850px;
+  height: 30px;
+  font-family: serif;
+  top: 0em;
+  
+}
+
+header li{
+  font-size: 1.2em;
+  display: inline-block;
+}
+
+header a {
+  margin: 1.2em;
+  color: white;
+  text-decoration: none;
+}
+
 .palette{
   background: #ffffff;
   font-family: serif;
